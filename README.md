@@ -6,10 +6,10 @@
 
 게임 플레이 링크 : https://ttobing3.itch.io/surgeon-tom
 
-# 플레이 영상 링크
-https://youtu.be/6ITc66qQfsY
+# 플레이 영상
 ![Surgeon Tom Gif](https://github.com/user-attachments/assets/116c4065-dbaf-419d-82ba-244e7114208f)
 
+플레이 영상 링크 : https://youtu.be/6ITc66qQfsY
 
 # 스크린샷
 ![image](https://github.com/user-attachments/assets/2e666175-8349-4e1a-a0f1-f840537c785c)
