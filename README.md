@@ -4,6 +4,8 @@
 기간 : 2024. 12. 20 - 24. (4일) <br>
 인원 : 1명 
 
+게임 플레이 링크 : https://ttobing3.itch.io/surgeon-tom
+
 # 플레이 영상 링크
 https://youtu.be/6ITc66qQfsY
 ![Surgeon Tom Gif](https://github.com/user-attachments/assets/116c4065-dbaf-419d-82ba-244e7114208f)
