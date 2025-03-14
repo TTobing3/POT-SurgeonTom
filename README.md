@@ -6,6 +6,8 @@
 
 게임 플레이 링크 : https://ttobing3.itch.io/surgeon-tom
 
+( 현재 Repository에는 사운드 유료에셋 사용으로 인해 소스코드만 등록되어 있습니다. )
+
 # 플레이 영상
 ![Surgeon Tom Gif](https://github.com/user-attachments/assets/116c4065-dbaf-419d-82ba-244e7114208f)
 
