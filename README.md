@@ -1,6 +1,6 @@
 # 정보
 이름 : 외과의사 톰 <br>
-장르 : `2d` `action` `simulation` <br>
+장르 : `2d` `action` `casual` `simulation` <br>
 기간 : 2024. 12. 20 - 24. (4일) <br>
 인원 : 1명 <br>
 개발 : 유니티, C#
